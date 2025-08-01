@@ -106,7 +106,7 @@ export default function CoffeeDate() {
       <div className="relative flex flex-row items-center gap-4">
         <button
           onClick={handleYes}
-          className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg text-lg shadow-md transition"
+          className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg text-lg shadow-md transition"
         >
           Yes 💖
         </button>
@@ -119,7 +119,7 @@ export default function CoffeeDate() {
             left: noButtonPos.left,
             transition: "all 0.3s ease",
           }}
-          className="bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg text-lg shadow-md absolute"
+          className="bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-lg text-lg shadow-md absolute"
         >
           No 😢
         </button>
