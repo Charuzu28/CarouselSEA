@@ -51,7 +51,7 @@ export default function CoffeeDate() {
         />
         <h1 className="text-2xl font-bold text-center mb-6">
           HAPPY GIRLFRIENDS DAY! MY PRETTY BABY! 💕 <br />
-          <span className="text-base font-normal">(Kahit walang label)</span>
+          <span className="text-base font-normal">(Your's truly: Suitor mo)</span>
         </h1>
         <div className="w-full max-w-sm sm:max-w-md md:max-w-lg">
           <Slider {...settings}>
